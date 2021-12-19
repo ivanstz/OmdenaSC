@@ -1,0 +1,2 @@
+# OmdenaSC
+Omdena school projects
