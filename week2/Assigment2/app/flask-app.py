@@ -21,4 +21,4 @@ def get_input():
 
 # driver function
 if __name__ == '_main_':
-    app.run()
+    app.run(debug=True, host='127.0.0.1')
